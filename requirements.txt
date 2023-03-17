@@ -1,0 +1,5 @@
+Pillow
+requests
+nasapy
+pandas
+disnake
